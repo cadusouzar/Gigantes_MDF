@@ -1,6 +1,6 @@
  # Gigantes de MDF
 
-# Alunos
+### Alunos ###
 
 Carlos Eduardo de Souza Ribeiro - 174040
 
@@ -25,9 +25,9 @@ O projeto Gigantes de MDF, vem com o intuito dos alunos aplicarem os conceitos r
 
 O código foi desenvolvido na linguagem C utilizando apenas o ATMEGA328, foi utilizado o programa SimulIde para debugar o codigo, também o próprio programa Arduino para gravar no arduino e testar.
 
-# Pinagem
+# Pinagem 
 
-# Motores
+### Motores ###
 - PD2 -> MOTOR ESQUERDO "FRENTE"
 - PD3 -> MOTOR ESQUERDO "TRAS"
 - PD4 -> MOTOR DIREITO "FRENTE"
@@ -35,18 +35,18 @@ O código foi desenvolvido na linguagem C utilizando apenas o ATMEGA328, foi uti
 - PD6 -> MOTOR PWM DIREITO
 - PD7 -> MOTOR DIREITO "TRAS"
 
-# Leds
+### Leds ###
 
 - PC5 -> LED 
 - PC3 -> LED
 - PC2 -> LED
 - PC1 -> DIODO LASER (ELE PRECISA FICAR EM LOOP, SOLTANDO LASER A CADA 1 SEGUNDO AUTOMATICAMENTE)
-- 
-# Sensores 
+
+### Sensores ###
 
 - PCO -> LDR
 
-# Botões
+### Botões ###
 
 - PBO -> BOTAO ANDAR PRA FRENTE (GIRA OS DOIS MOTORES PRA FRENTE)
 - PB1 -> BOTAO (APENAS RODA DA DIREITA GIRA PRA FRENTE)
