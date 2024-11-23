@@ -1,14 +1,14 @@
-# Gigantes de MDF
+ # Gigantes de MDF
 
 # Alunos
 
-Carlos Eduardo de Souza Ribeiro
+Carlos Eduardo de Souza Ribeiro - 174040
 
-Alvaro Gochi de Sousa 
+Alvaro Gochi de Sousa - 172158
 
-Neemias Vieira
+Neemias Vieira Fernandes - 170550
 
-João Victor
+João Victor Teixeira - 147653
 
 # Sobre o Projeto:
 
